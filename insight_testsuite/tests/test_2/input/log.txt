@@ -1,0 +1,2 @@
+#Log file is too big for github. 
+#You can find this file at http://www.sec.gov/dera/data/Public-EDGAR-log-file-data/2017/Qtr2/log20170630.zip
