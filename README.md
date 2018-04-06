@@ -3,10 +3,10 @@
 
 ## run src/sessionization.py 
 
-
-	- [--log_file LOG_FILE]
-    - [--inactivity_period_file INACTIVITY_PERIOD_FILE]
-    - [--output_file OUTPUT_FILE]
+(sessionization.py has following arguments)
+	- --log_file PATH_OF_LOG_FILE 
+    - --inactivity_period_file  PATH_OF_INACTIVITY_PERIOD_FILE
+    - --output_file  PATH_OF_OUTPUT_FILE
 
 ## Dependecies (Modules)
 	- csv
