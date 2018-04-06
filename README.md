@@ -8,7 +8,7 @@
 
 
 
-## Dependecies (Modules)
+## Dependencies (Modules)
 	- csv
 	- sys
 	- argparse
