@@ -9,4 +9,4 @@ sessionization.py [-h] [--log_file LOG_FILE]
 
 Dependecies : 
 	Modules :csv, sys, argparse, datetime
-	Python 3.6
+	Developed using Python 3.6
