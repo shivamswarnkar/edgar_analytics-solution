@@ -2,9 +2,9 @@
 
 
 ## src/sessionization.py takes following arguments
-	- --log_file PATH_OF_LOG_FILE (default = ../input/log.csv)
-    - --inactivity_period_file  PATH_OF_INACTIVITY_PERIOD_FILE (default = ../input/inactivity_period.txt)
-    - --output_file  PATH_OF_OUTPUT_FILE (default = ../output/sessionization.txt)
+	--log_file PATH_OF_LOG_FILE (default = ../input/log.csv)
+    --inactivity_period_file  PATH_OF_INACTIVITY_PERIOD_FILE (default = ../input/inactivity_period.txt)
+    --output_file  PATH_OF_OUTPUT_FILE (default = ../output/sessionization.txt)
 
 
 
