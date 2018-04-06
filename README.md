@@ -1,4 +1,4 @@
-# This Repo is a solution for Insight Data Science's [edgar analytics challange](https://github.com/InsightDataScience/edgar-analytics)
+## This Repo is a solution for Insight Data Science's [edgar analytics challange](https://github.com/InsightDataScience/edgar-analytics)
 
 
 ## run src/sessionization.py 
@@ -14,4 +14,4 @@
 	- argparse
 	- datetime
 
-**Developed using Python 3.6**
+**Note : Developed using Python 3.6**
